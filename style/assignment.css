@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif
+}
+/* headerr and div styles */
+.div-header-1{
+    font-weight: 700;
+font-size: 65px;
+
+}
+.div-header-2{
+    font-weight: 700;
+font-size: 65px;
+}
+
+.div-header-3{
+    font-weight: 700;
+font-size: 65px;
+}
+
+.div-p{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+
+    font-family: 'Work Sans';
+font-style: normal;
+    font-weight: 400;
+font-size: 16px;
+left: 876px;
+top: 468px;
+text-align: right;
+color: #444343;
+}
