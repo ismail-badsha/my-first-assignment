@@ -36,13 +36,106 @@
     text-align: right;
     color: #444343;
 }
-.btn-primary{
+
+.btn-primary {
+    font-weight: 600;
+
+    line-height: 23px;
+    border: 0;
     position: absolute;
-width: 160px;
-height: 64px;
-left: 1210px;
-top: 578px;
-background: #F15B22;
-border-radius: 5px;
-color: #FFFFFF;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background: #F15B22;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+/* my failure styles */
+.my-failure{
+    align-items: center;
+    margin: 0 200px;
+    display: flex;
+    
+}
+.img-person{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+
+}
+
+.section-title{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.section-discription{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+
+}
+
+.section-ul1{
+    position: absolute;
+width: 344px;
+height: 26.8px;
+left: 836px;
+top: 1430px;
+}
+
+.section-ul2{
+    position: absolute;
+width: 240px;
+height: 26.8px;
+left: 836px;
+top: 1460.05px;
+}
+
+.section-ul3{
+    position: absolute;
+width: 306px;
+height: 26.8px;
+left: 836px;
+top: 1492.1px;
+
+}
+
+.section-ul4{
+    position: absolute;
+width: 349px;
+height: 26.8px;
+left: 836px;
+top: 1527.15px;
+
+}
+.section-ul5{
+
+    position: absolute;
+width: 247px;
+height: 26.8px;
+left: 836px;
+top: 1562.2px;
 }
