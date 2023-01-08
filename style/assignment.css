@@ -53,13 +53,14 @@
 }
 
 /* my failure styles */
-.my-failure{
+.my-failure {
     align-items: center;
     margin: 0 200px;
     display: flex;
-    
+
 }
-.img-person{
+
+.img-person {
     position: absolute;
     width: 569px;
     height: 723.3px;
@@ -68,123 +69,126 @@
 
 }
 
-.section-title{
+.section-title {
     position: absolute;
-width: 288px;
-height: 94px;
-left: 862px;
-top: 1178px;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
 
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 47px;
-color: #151414;
-}
-.section-discription{
-    position: absolute;
-width: 416px;
-height: 104px;
-left: 862px;
-top: 1296px;
-
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-color: #444343;
-
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
 }
 
-.section-ul1{
+.section-discription {
     position: absolute;
-width: 344px;
-height: 26.8px;
-left: 836px;
-top: 1430px;
-}
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
 
-.section-ul2{
-    position: absolute;
-width: 240px;
-height: 26.8px;
-left: 836px;
-top: 1460.05px;
-}
-
-.section-ul3{
-    position: absolute;
-width: 306px;
-height: 26.8px;
-left: 836px;
-top: 1492.1px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
 
 }
 
-.section-ul4{
+.section-ul1 {
     position: absolute;
-width: 349px;
-height: 26.8px;
-left: 836px;
-top: 1527.15px;
+    width: 344px;
+    height: 26.8px;
+    left: 836px;
+    top: 1430px;
+}
+
+.section-ul2 {
+    position: absolute;
+    width: 240px;
+    height: 26.8px;
+    left: 836px;
+    top: 1460.05px;
+}
+
+.section-ul3 {
+    position: absolute;
+    width: 306px;
+    height: 26.8px;
+    left: 836px;
+    top: 1492.1px;
 
 }
-.section-ul5{
+
+.section-ul4 {
+    position: absolute;
+    width: 349px;
+    height: 26.8px;
+    left: 836px;
+    top: 1527.15px;
+
+}
+
+.section-ul5 {
 
     position: absolute;
-width: 247px;
-height: 26.8px;
-left: 836px;
-top: 1562.2px;
+    width: 247px;
+    height: 26.8px;
+    left: 836px;
+    top: 1562.2px;
 }
+
 /* my plan styles */
-.section-title2{
+.section-title2 {
     position: absolute;
-width: 179px;
-height: 47px;
-left: 725px;
-top: 1792px;
+    width: 179px;
+    height: 47px;
+    left: 725px;
+    top: 1792px;
 
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 40px;
-line-height: 47px;
-color: #151414;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
 }
 
-.skills-container{
+.skills-container {
     display: flex;
 }
 
 
-.img-web{
+.img-web {
     position: absolute;
-width: 92.96px;
-height: 92.96px;
-left: 344px;
-top: 1900.7px;
+    width: 92.96px;
+    height: 92.96px;
+    left: 344px;
+    top: 1900.7px;
 
 }
 
-.skill-title1{
+.skill-title1 {
     position: absolute;
-width: 270px;
-height: 35px;
-left: 244px;
-top: 2011.96px;
-font-family: 'Work Sans';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 35px;
-text-align: center;
-color: #151414;
+    width: 270px;
+    height: 35px;
+    left: 244px;
+    top: 2011.96px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
 }
 
-.skill-description1{
+.skill-description1 {
     position: absolute;
     width: 177px;
     height: 29px;
@@ -201,7 +205,7 @@ color: #151414;
 
 
 
-.img-js{
+.img-js {
     position: absolute;
     width: 92.96px;
     height: 92.96px;
@@ -209,7 +213,7 @@ color: #151414;
     top: 1894.7px;
 }
 
-.skill-title2{
+.skill-title2 {
     position: absolute;
     width: 156px;
     height: 35px;
@@ -222,23 +226,23 @@ color: #151414;
     line-height: 35px;
     text-align: center;
     color: #151414;
-    
+
 }
 
-.skill-description2{
+.skill-description2 {
 
     position: absolute;
     width: 181px;
     height: 29px;
     left: 619px;
     top: 2058px;
-    
+
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 500;
     font-size: 25px;
     line-height: 29px;
-    text-align: center; 
+    text-align: center;
     color: #737272;
 }
 
@@ -247,7 +251,7 @@ color: #151414;
 
 
 
-.img-smoke{
+.img-smoke {
 
     position: absolute;
     width: 93px;
@@ -256,30 +260,30 @@ color: #151414;
     top: 1889px;
 }
 
-.skill-title3{
+.skill-title3 {
     position: absolute;
     width: 218px;
     height: 35px;
     left: 867px;
     top: 2006px;
-    
+
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
     line-height: 35px;
     text-align: center;
-    
+
     color: #151414;
 }
 
-.skill-description3{
+.skill-description3 {
     position: absolute;
     width: 164px;
     height: 29px;
     left: 894px;
     top: 2057px;
-    
+
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 500;
@@ -291,7 +295,7 @@ color: #151414;
 
 
 
-.img-ecom{
+.img-ecom {
     position: absolute;
     width: 92.96px;
     height: 92.96px;
@@ -299,41 +303,97 @@ color: #151414;
     top: 1889px;
 }
 
-.skill-title4{
+.skill-title4 {
     position: absolute;
     width: 174px;
     height: 35px;
     left: 1191px;
     top: 2006px;
-    
+
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 30px;
     line-height: 35px;
     text-align: center;
-    
+
     /* Dark 01 */
-    
+
     color: #151414;
-    
+
 }
 
-.skill-description4{
+.skill-description4 {
     position: absolute;
     width: 214px;
     height: 29px;
     left: 1171px;
     top: 2057px;
-    
+
     font-family: 'Work Sans';
     font-style: normal;
     font-weight: 500;
     font-size: 25px;
     line-height: 29px;
     text-align: center;
-    
+
     /* Dark 03 */
-    
+
     color: #737272;
 }
+
+/* positive styles */
+.positive {
+    background-image: url('../images/watch.png');
+
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
+}
+
+.description {
+    padding: 60px 64px 620px;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2281.26px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+}
+/* 
+.btn-2 {
+    
+    position: absolute;
+    width: 88px;
+    height: 23px;
+    left: 330px;
+    top: 2420.26px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #F15B22;
+    
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
+    
+    background: #FFFFFF;
+    border-radius: 5px;
+
+} */
