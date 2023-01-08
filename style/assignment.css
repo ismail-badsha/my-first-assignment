@@ -139,3 +139,201 @@ height: 26.8px;
 left: 836px;
 top: 1562.2px;
 }
+/* my plan styles */
+.section-title2{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 725px;
+top: 1792px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+
+.skills-container{
+    display: flex;
+}
+
+
+.img-web{
+    position: absolute;
+width: 92.96px;
+height: 92.96px;
+left: 344px;
+top: 1900.7px;
+
+}
+
+.skill-title1{
+    position: absolute;
+width: 270px;
+height: 35px;
+left: 244px;
+top: 2011.96px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #151414;
+}
+
+.skill-description1{
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 291px;
+    top: 2062.96px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+
+
+.img-js{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 645px;
+    top: 1894.7px;
+}
+
+.skill-title2{
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 632px;
+    top: 2007px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    
+}
+
+.skill-description2{
+
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 619px;
+    top: 2058px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center; 
+    color: #737272;
+}
+
+
+
+
+
+
+.img-smoke{
+
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    left: 930px;
+    top: 1889px;
+}
+
+.skill-title3{
+    position: absolute;
+    width: 218px;
+    height: 35px;
+    left: 867px;
+    top: 2006px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: #151414;
+}
+
+.skill-description3{
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 894px;
+    top: 2057px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+
+
+.img-ecom{
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1232px;
+    top: 1889px;
+}
+
+.skill-title4{
+    position: absolute;
+    width: 174px;
+    height: 35px;
+    left: 1191px;
+    top: 2006px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    /* Dark 01 */
+    
+    color: #151414;
+    
+}
+
+.skill-description4{
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 1171px;
+    top: 2057px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    
+    /* Dark 03 */
+    
+    color: #737272;
+}
